@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "バトンロード",
+  "base_artist": "KANA-BOON",
+  "createdAt": "2026-02-27T06:57:41.033141Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "バトンロード",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/01_バトンロード_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "バトンロード",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/02_バトンロード_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "バトンロード",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/03_バトンロード_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "バトンロード",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/04_バトンロード_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "バトンロード - Baton road",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/05_バトンロード_-_Baton_road_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "バトンロード",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/06_バトンロード_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "バトンロード (Baton Road)",
+      "artist": "KANA-BOON (カナブーン)",
+      "has_synced": true,
+      "path": "select/07_バトンロード_(Baton_Road)_KANA-BOON_(カナブーン).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "バトンロード",
+      "artist": "KANA‐BOON",
+      "has_synced": true,
+      "path": "select/08_バトンロード_KANA‐BOON.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "KANA-BOON 『バトンロード』Music Video",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/09_KANA-BOON_『バトンロード』Music_Video_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "バトンロード",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/10_バトンロード_KANA-BOON.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バトンロード",
+      "artist": "KANA-BOON",
+      "has_synced": false,
+      "path": "select/pl_01_バトンロード_KANA-BOON.txt"
+    }
+  ]
+}
